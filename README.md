@@ -1,7 +1,6 @@
 # K-Lookahead CRH controller demo
 
-To start the demo, go to http://fran-penedo.github.io/coverage/
-Source code can be found at http://github.com/fran-penedo/coverage-control-sim/. Don't report bugs, suggestions or feature requests in this repository, do that in the coverage-control-sim one.
+To start the demo, go to http://fran-penedo.github.io/coverage/. Source code can be found at http://github.com/fran-penedo/coverage-control-sim/. Don't report bugs, suggestions or feature requests in this repository, do so in the coverage-control-sim one.
 
 ## User Guide
 
